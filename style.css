@@ -1,0 +1,44 @@
+.main{
+    border: 1px solid #0f151f;
+    height: 200px;
+    background-color: #0f151f;
+}
+
+.main > h2{
+    color: wheat;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.input {
+    display: block; 
+    margin: 10px auto; 
+    text-align: center; 
+    width: 180px;
+    height: 40px;
+    border-radius:8px;
+    box-shadow: 0px 10px 30px 8px rgba(0,0,0,0.34);
+    text-align: left;
+  }
+
+  .unorderedList{
+    display: block; 
+    margin: 20px auto;
+  }
+  
+
+  .unorderedList {
+    text-align: center; 
+    list-style: none; 
+    padding: 0;
+    font-size: 25px; 
+}
+  
+  .unorderedList li {
+    margin: 25px 0; 
+    padding-bottom: 2px;
+    text-decoration: underline;
+    
+    
+  }
+  
